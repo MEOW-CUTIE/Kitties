@@ -27,4 +27,3 @@ namespace console1
     }
   }
 }
-© 2020 GitHub, Inc.
