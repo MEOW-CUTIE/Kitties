@@ -22,7 +22,7 @@ namespace console1
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hell9o World!");
+      Console.WriteLine("Hell9o World kitties!");
       Person p = new Person("Tony", "Allen", 32); Console.WriteLine(p);
     }
   }
